@@ -6,3 +6,10 @@ TYPE = "VANILLA"
 [[mounts]]
 source = "minecraft_data"
 destination = "/data"
+
+[[services]]
+internal_port = 25565
+protocol = "tcp"
+
+[[services.ports]]
+port = 25565
