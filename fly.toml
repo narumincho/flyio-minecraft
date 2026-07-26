@@ -1,0 +1,8 @@
+[env]
+EULA = "TRUE"
+VERSION = "26.2"
+TYPE = "VANILLA"
+
+[[mounts]]
+source = "minecraft_data"
+destination = "/data"
