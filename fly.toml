@@ -25,3 +25,7 @@ protocol = "tcp"
 [[services.ports]]
 port = 25565
 handlers = []
+
+[[services.tcp_checks]]
+interval = "15s"
+timeout = "2s"
