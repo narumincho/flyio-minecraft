@@ -24,3 +24,4 @@ protocol = "tcp"
 
 [[services.ports]]
 port = 25565
+handlers = []
