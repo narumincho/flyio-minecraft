@@ -14,9 +14,9 @@ source = 'minecraft_data'
 destination = '/data'
 
 [[vm]]
-memory = '1gb'
+memory = '4gb'
 cpu_kind = 'performance'
-cpus = 2
+cpus = 1
 
 [[services]]
 internal_port = 25565
