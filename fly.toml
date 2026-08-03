@@ -7,7 +7,7 @@ primary_region = 'nrt'
 EULA = 'TRUE'
 TYPE = 'VANILLA'
 VERSION = '26.2'
-MEMORY = '768M'
+MEMORY = '3800M'
 
 [[mounts]]
 source = 'minecraft_data'
