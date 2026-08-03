@@ -1,5 +1,3 @@
 fly.io で Minecraft のサーバーが起動できるか試してみる
 
-TCPの通信が来たら起動して, 通信されなくなったら停止するようにできたら, 常時起動より安くなりそう
-
-Minecraft のサーバーは起動するようだが, 接続できなかった...
+Shared IPv4 ではなく Assign Dedicated IPv4 でなら接続できた
